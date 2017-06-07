@@ -1,0 +1,16 @@
+{
+	"name": "material-dashboard",
+	"description": "Material Dashboard - Free Bootstrap Material Design Admin",
+	"version" : "1.0.0",
+	"main": "assets/js/material-dashboard.js",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/RohanSakhale/material-dashboard.git"
+	},
+	"keywords": [
+		"bootstrap", "admin", "template"
+	],
+	"author": "Creative Tim",
+	"license": "MIT",
+	"dependencies": {}
+}
