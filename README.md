@@ -1,6 +1,7 @@
 # [Material Dashboard - Free Bootstrap Material Design Admin](http://demos.creative-tim.com/material-dashboard/examples/dashboard.html)
 
 ![alt text](http://s3.amazonaws.com/creativetim_bucket/products/50/original/opt_md_thumbnail.jpg "Material Dashboard Free")
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRohanSakhale%2Fmaterial-dashboard.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FRohanSakhale%2Fmaterial-dashboard?ref=badge_shield)
 
 Material Dashboard is a free Material Bootstrap Admin with a fresh, new design inspired by Google's Material Design. We are very excited to introduce our take on the material concepts through an easy to use and beautiful set of components. Material Dashboard was built over the popular Bootstrap framework and it comes with a couple of third-party plugins redesigned to fit in with the rest of the elements.
 
@@ -78,6 +79,9 @@ V1.1.1 8 Feb 2017
 
 - Copyright 2017 Creative Tim (http://www.creative-tim.com)
 - Licensed under MIT (https://github.com/creativetimofficial/material-dashboard/blob/master/LICENSE.md)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRohanSakhale%2Fmaterial-dashboard.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FRohanSakhale%2Fmaterial-dashboard?ref=badge_large)
 
 ## Useful Links
 
